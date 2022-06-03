@@ -2,13 +2,14 @@
 
 - HTML là chữ viết tắt của cụm từ Hyper Text Markup Language (Ngôn ngữ đánh dấu siêu văn bản) được sử dụng để tạo một trang web, trên một website có thể sẽ chứa nhiều trang và mỗi trang được quy ra là một tài liệu HTML. HTML là một trong những ngôn ngữ quan trọng trong lĩnh vực thiết kế website (được xem là bộ khung của website), đây là ngôn ngữ duy nhất mà các trình duyệt cốc cốc , chrome, opera… có thể hiểu và hiển thị được.
 - HTML sử dụng các **thẻ** để xác định nội dung của trang.
+
   > **Trang web tĩnh:** Các tài liệu HTML (trang HTML) có thể là các file với phần mở rộng (.html) được lưu trữ trên hệ thống file của máy chủ web (webserver), từ đó trình duyệt truy cập đọc được và hiện thị.
   >
   > **Trang web động:** Các trang HTML mà trình duyệt lấy về từ webserver được phát sinh bởi một ứng dụng chạy trên server (ứng dụng phát triển bằng các ngôn ngữ lập trình như PHP, C# ...).
   >
   > **Siêu văn bản (HyperText):** Ám chỉ sự liên kết giữa các trang, một trang HTML có liên kết tham chiếu đến một trang khác trên cùng một Website hay giữa các website.
 
-> **_Lưu ý:_** _HTML không phải là ngôn ngữ lập trình._
+  > **_Lưu ý:_** _HTML không phải là ngôn ngữ lập trình._
 
 - Cấu trúc cơ bản của trang HTML thường gồm 3 phần:
 
