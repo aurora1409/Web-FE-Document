@@ -44,6 +44,6 @@ Cụ thể:
 
     - Các file css, javascript có thể chèn vào tại đây.
 
-    Đây là thẻ cần mở ngay sau mở thẻ `<html>`, thẻ `<head>` chứa các thành phần (phần tử HTML) hầu như là không hiện thị tới người dùng, chúng là các điều khiển, thiết lập giúp trang html được hiện thị theo một mục đích cụ thể.
+    Đây là thẻ cần mở ngay sau mở thẻ `<html>`, thẻ `<head>` chứa các thành phần (phần tử HTML) hầu như là không hiển thị tới người dùng, chúng là các điều khiển, thiết lập giúp trang html được hiện thị theo một mục đích cụ thể.
 
-  - Phần nội dung được khai báo bằng thẻ `<body>`. Thẻ `<body>` nằm trong thẻ `<html>`, những thành phần hiện thị tới người dùng (đoạn văn, hình ảnh, liên kết ...) phải nằm trong thẻ này. Một trang HTML chỉ có 1 thẻ `<body>`
+  - Phần nội dung được khai báo bằng thẻ `<body>`. Thẻ `<body>` nằm trong thẻ `<html>`, những thành phần hiển thị tới người dùng (đoạn văn, hình ảnh, liên kết ...) phải nằm trong thẻ này. Một trang HTML chỉ có 1 thẻ `<body>`
