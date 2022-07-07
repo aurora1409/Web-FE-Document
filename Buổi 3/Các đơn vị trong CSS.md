@@ -11,7 +11,6 @@ Vì phần này trước đã tìm hiểu rồi, nhưng anh muốn em tìm hiể
 -   **Đơn vị tuyệt đối (Absolute Units)** là những đơn vị mà giá trị của nó không bao giờ thay đổi và không bị ảnh hưởng bởi các thành phần khác. Tức là trong mọi kích thước màn hình thì kích thước của nó vẫn như thế. Với loại đơn vị này chỉ nên dùng cho những thứ có kích thước cố định, hoặc kích thước nhỏ không quá ảnh hưởng như border, … Một vài đơn vị tuyệt đối như: px, pt, cm, mm, pc, in.
     
 
-⇒ Khi code Responsive CSS nên dùng đơn vị tương đối
 
 -   `Em`:
     
