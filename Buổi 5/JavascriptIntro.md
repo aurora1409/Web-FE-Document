@@ -151,9 +151,9 @@ Ví dụ định dạng văn bản viết ra bằng thẻ HTML `<h1>`
 
 	Khi khai báo biến có thể không cần thiết phải gán giá trị cho nó. Khi biến khai báo mà không gán giá trị thì nó có giá trị là undefined
 
->Chú ý: Các dòng lệnh JS ngăn cách bởi dấu chấm phẩy `;`
+>***Chú ý:*** Các dòng lệnh JS ngăn cách bởi dấu chấm phẩy `;`
 
->Cách đặt tên biến:
+>***Cách đặt tên biến:***
 >	-   Bắt đầu bằng ký tự chữ hoặc _ hoặc $. Tiếp theo là chuỗi các ký tự chữ, số, gạch dưới, dollar    
 >	-   Không được bắt đầu bằng số    
 >	-   Không được chứa các ký hiệu toán học, logic ví dụ *, +    
