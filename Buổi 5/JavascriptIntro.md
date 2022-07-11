@@ -224,9 +224,9 @@ Cơ chế Hoisting của Javasript đã đưa khai báo biến lên trên cùng.
 	-   Null: đơn giản là không có giá trị nào cả.
     
 
->Phân biệt Null và Undefine:
->-   Một biến được khai báo mà không gán giá trị khởi tạo thì JavaScript sẽ đặt cho nó giá trị mặc định là undefined, kiểu dữ liệu cũng là undefined.    
->-   Khi bạn kiểm tra kiểu dữ liệu bằng từ khóa typeof thì sẽ ra kiểu dữ liệu và undefined. Còn với null, nó có nghĩa là không có gì. Nhưng sự khác biệt là mặc dù biến đó không có giá trị nhưng kiểu dữ liệu của nó là object.
+	>***Phân biệt Null và Undefine:***
+	>-   Một biến được khai báo mà không gán giá trị khởi tạo thì JavaScript sẽ đặt cho nó giá trị mặc định là undefined, kiểu dữ liệu cũng là undefined.    
+	>-   Khi bạn kiểm tra kiểu dữ liệu bằng từ khóa typeof thì sẽ ra kiểu dữ liệu và undefined. Còn với null, nó có nghĩa là không có gì. Nhưng sự khác biệt là mặc dù biến đó không có giá trị nhưng kiểu dữ liệu của nó là object.
     
 
 - Kiểu dữ liệu không nguyên thủy (tham chiếu):
