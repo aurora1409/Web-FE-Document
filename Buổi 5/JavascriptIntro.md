@@ -51,7 +51,7 @@
 	</body>
 </html>
 ````
-***Inline:**
+***Inline:***
 
 Đối với cách nhúng inline chúng ta có thể chèn ngay vị trí bất kỳ của một dòng code HTML.
 ````
