@@ -51,7 +51,7 @@
 	</body>
 </html>
 ````
-***Inline:**
+***Inline:***
 
 Đối với cách nhúng inline chúng ta có thể chèn ngay vị trí bất kỳ của một dòng code HTML.
 ````
@@ -151,9 +151,9 @@ Ví dụ định dạng văn bản viết ra bằng thẻ HTML `<h1>`
 
 	Khi khai báo biến có thể không cần thiết phải gán giá trị cho nó. Khi biến khai báo mà không gán giá trị thì nó có giá trị là undefined
 
->Chú ý: Các dòng lệnh JS ngăn cách bởi dấu chấm phẩy `;`
+>***Chú ý:*** Các dòng lệnh JS ngăn cách bởi dấu chấm phẩy `;`
 
->Cách đặt tên biến:
+>***Cách đặt tên biến:***
 >	-   Bắt đầu bằng ký tự chữ hoặc _ hoặc $. Tiếp theo là chuỗi các ký tự chữ, số, gạch dưới, dollar    
 >	-   Không được bắt đầu bằng số    
 >	-   Không được chứa các ký hiệu toán học, logic ví dụ *, +    
@@ -224,9 +224,9 @@ Cơ chế Hoisting của Javasript đã đưa khai báo biến lên trên cùng.
 	-   Null: đơn giản là không có giá trị nào cả.
     
 
->Phân biệt Null và Undefine:
->-   Một biến được khai báo mà không gán giá trị khởi tạo thì JavaScript sẽ đặt cho nó giá trị mặc định là undefined, kiểu dữ liệu cũng là undefined.    
->-   Khi bạn kiểm tra kiểu dữ liệu bằng từ khóa typeof thì sẽ ra kiểu dữ liệu và undefined. Còn với null, nó có nghĩa là không có gì. Nhưng sự khác biệt là mặc dù biến đó không có giá trị nhưng kiểu dữ liệu của nó là object.
+	>***Phân biệt Null và Undefine:***
+	>-   Một biến được khai báo mà không gán giá trị khởi tạo thì JavaScript sẽ đặt cho nó giá trị mặc định là undefined, kiểu dữ liệu cũng là undefined.    
+	>-   Khi bạn kiểm tra kiểu dữ liệu bằng từ khóa typeof thì sẽ ra kiểu dữ liệu và undefined. Còn với null, nó có nghĩa là không có gì. Nhưng sự khác biệt là mặc dù biến đó không có giá trị nhưng kiểu dữ liệu của nó là object.
     
 
 - Kiểu dữ liệu không nguyên thủy (tham chiếu):
