@@ -59,7 +59,7 @@
     
 -   Node phần tử: biểu diễn cho 1 phần tử HTML.
     
--   Node văn bản: mỗi đoạn ký tự trong tài liệu HTML, bên trong 1 thẻ HTML đều là 1 node văn bản. Đó có thể là tên trang web trong thẻ <title>, tên đề mục trong thẻ <h1>, hay một đoạn văn trong thẻ <p>.
+-   Node văn bản: mỗi đoạn ký tự trong tài liệu HTML, bên trong 1 thẻ HTML đều là 1 node văn bản. Đó có thể là tên trang web trong thẻ `<title>`, tên đề mục trong thẻ `<h1>`, hay một đoạn văn trong thẻ `<p>`.
     
 -   Ngoài ra còn có node thuộc tính (attribute node) và node chú thích (comment node).
     
