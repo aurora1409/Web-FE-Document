@@ -1,0 +1,26 @@
+.App {
+  
+  padding: 0;
+  margin: 0;
+  display: flex;
+  
+  justify-content: center;
+  background-image: linear-gradient(to left,#18c0ee,#35415a,#4ccbee,#4c6aa7);
+  background-size: cover;
+  
+}
+.Form {
+  height: 820px;
+  width: 1000px;
+  margin: 52px 0px;
+  text-align: center;
+  color: #5799f0;
+  font-size: 30px;
+  border: rgb(112, 108, 108) solid 3px;
+  background-color: white;
+  border-radius: 10%;
+}
+
+
+
+

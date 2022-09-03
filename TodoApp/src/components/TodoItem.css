@@ -1,0 +1,21 @@
+.list-item {
+    margin: 10px 110px 10px 120px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+
+.delete-btn {
+    background-color: rgb(112, 112, 236);
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-left {
+    margin-right: 2px;
+}
+
+.btn-right {
+    margin-left: 2px;
+}
